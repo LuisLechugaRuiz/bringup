@@ -1,0 +1,5 @@
+task_monitor:
+  ros__parameters:
+    initial_x: -2.0
+    initial_y: -0.5
+    initial_yaw: 0.0
