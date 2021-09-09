@@ -57,7 +57,7 @@ def generate_launch_description():
     
     declare_autostart_cmd = DeclareLaunchArgument(
         'autostart', 
-        default_value='false',
+        default_value='true',
         description='Automatically startup the nav2 stack')   
 
     # Specify the actions
